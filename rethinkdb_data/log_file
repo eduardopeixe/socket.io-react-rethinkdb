@@ -1,0 +1,26 @@
+2019-02-14T08:33:40.973114000 0.151123s notice: Recursively removing directory /Users/peixe/dev/socket.io-react-rethinkdb/rethinkdb_data/tmp
+2019-02-14T08:33:40.974953000 0.152982s notice: Initializing directory /Users/peixe/dev/socket.io-react-rethinkdb/rethinkdb_data
+2019-02-14T08:33:40.975130000 0.153139s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Users/peixe/dev/socket.io-react-rethinkdb/rethinkdb_data' did not already exist or is empty.)
+2019-02-14T08:33:40.975210000 0.153219s notice: Running rethinkdb 2.3.6 (CLANG 9.0.0 (clang-900.0.37))...
+2019-02-14T08:33:40.980442000 0.158451s notice: Running on Darwin 17.7.0 x86_64
+2019-02-14T08:33:40.980488000 0.158497s notice: Loading data from directory /Users/peixe/dev/socket.io-react-rethinkdb/rethinkdb_data
+2019-02-14T08:33:41.207402000 0.385420s info: Automatically using cache size of 2506 MB
+2019-02-14T08:33:41.207979000 0.385996s notice: Listening for intracluster connections on port 29015
+2019-02-14T08:33:41.209692000 0.387710s notice: Listening for client driver connections on port 28015
+2019-02-14T08:33:41.209811000 0.387828s notice: Listening for administrative HTTP connections on port 8080
+2019-02-14T08:33:41.209813000 0.387830s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2019-02-14T08:33:41.209817000 0.387834s notice: Listening on driver addresses: 127.0.0.1, ::1
+2019-02-14T08:33:41.209820000 0.387837s notice: Listening on http addresses: 127.0.0.1, ::1
+2019-02-14T08:33:41.209826000 0.387843s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2019-02-14T08:33:41.209832000 0.387849s notice: Server ready, "owners_MacBook_Pro_local_03d" 1510a87a-7a5d-4916-8ed3-9310f7401d1c
+2019-02-14T08:43:16.628904000 575.828655s info: Table f7fe60f1-ba50-4f09-b0e3-60fbd9730fce: Starting a new Raft election for term 1.
+2019-02-14T08:43:16.629229000 575.828980s info: Table f7fe60f1-ba50-4f09-b0e3-60fbd9730fce: Added replica on this server.
+2019-02-14T08:43:16.652419000 575.852172s info: Table f7fe60f1-ba50-4f09-b0e3-60fbd9730fce: This server is Raft leader for term 1. Latest log index is 0.
+2019-02-14T08:49:57.619867000 976.834764s notice: Removing file /Users/peixe/dev/socket.io-react-rethinkdb/rethinkdb_data/f7fe60f1-ba50-4f09-b0e3-60fbd9730fce
+2019-02-14T08:49:57.619875000 976.834772s info: Table f7fe60f1-ba50-4f09-b0e3-60fbd9730fce: Deleted the table.
+2019-02-14T08:50:03.546490000 982.761611s info: Table 583451f2-69fd-4d87-b91b-dc7cd545fd23: Starting a new Raft election for term 1.
+2019-02-14T08:50:03.546732000 982.761853s info: Table 583451f2-69fd-4d87-b91b-dc7cd545fd23: Added replica on this server.
+2019-02-14T08:50:03.569822000 982.784944s info: Table 583451f2-69fd-4d87-b91b-dc7cd545fd23: This server is Raft leader for term 1. Latest log index is 0.
+2019-02-14T09:04:21.297799000 1840.548743s info: Table 05a9e868-4d27-4dfa-b047-26437826873a: Starting a new Raft election for term 1.
+2019-02-14T09:04:21.298037000 1840.548981s info: Table 05a9e868-4d27-4dfa-b047-26437826873a: Added replica on this server.
+2019-02-14T09:04:21.322847000 1840.573792s info: Table 05a9e868-4d27-4dfa-b047-26437826873a: This server is Raft leader for term 1. Latest log index is 0.
