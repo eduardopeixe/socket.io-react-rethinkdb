@@ -1,4 +1,4 @@
-const io = requier('socket.io')()
+const io = require('socket.io')()
 const port = 8000
 
 io.on('connection', client => {
